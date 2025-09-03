@@ -17,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoradev-web&show_icons=true&locale=en&layout=compact" alt="yoradev-web" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yoradev-web&show_icons=true&locale=en" alt="yoradev-web" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoradev-web&" alt="yoradev-web" /></p>
